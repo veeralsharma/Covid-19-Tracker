@@ -1,7 +1,7 @@
 
 to run- 1-download files 2-run npm instal in project directory 3-run npm start
 
-![alt]("https://github.com/veeralsharma/Covid-19-Tracker/blob/master/Capture1.PNG")
+![alt](https://github.com/veeralsharma/Covid-19-Tracker/blob/master/Capture1.PNG)
 
 ## Available Scripts
 
